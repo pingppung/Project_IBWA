@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Unity Projects.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JsonManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\JsonManager.cs" Line="188" Column="1" />
+      <File FileName="Assets\UI\Scripts\PanelManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
